@@ -214,9 +214,6 @@ Contributions are welcome! Areas for improvement:
 - Additional camera support
 - Performance optimizations
 
-## 📄 License
-
-[Specify your license here - e.g., MIT, Apache 2.0]
 
 ## 👤 Author
 
