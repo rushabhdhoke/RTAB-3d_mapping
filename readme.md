@@ -2,7 +2,7 @@
 
 **A ROS2-based solution for creating 3D maps using RTAB-Map and Intel RealSense D435i, designed for import into NVIDIA Isaac Sim for robot simulation environments.**
 
-![Mapping](RTAB-3d_mapping/Image.png)
+![Mapping](Image.png)
 
 ## 🎯 Project Overview
 
