@@ -2,6 +2,8 @@
 
 **A ROS2-based solution for creating 3D maps using RTAB-Map and Intel RealSense D435i, designed for import into NVIDIA Isaac Sim for robot simulation environments.**
 
+![.](Image.png)
+
 ## 🎯 Project Overview
 
 This project enables real-time 3D mapping of physical environments using RTAB-Map with an Intel RealSense D435i depth camera. The generated 3D point clouds can be exported and imported into NVIDIA Isaac Sim to create realistic simulation environments for robot navigation and testing.
